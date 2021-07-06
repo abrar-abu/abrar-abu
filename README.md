@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on TutorialEdge.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Elasticsearch, Logstash, Kafka, Go
-- 📫 How to reach me: abrar5711@gmail.com
+- 📫 How to reach me: mahedavi.abrar@gmail.com
 - 😄 Pronouns: ...
 
 Hackerrank Profile :- https://www.hackerrank.com/abrar5711 \
